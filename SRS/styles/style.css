@@ -25,10 +25,15 @@ Fonts are separated by a & */
   --nav-hover-link-color: #fffffa;
   --nav-hover-background-color: #333138;
 }
-.jumping {
+#Jumping {
   display:grid;
-  grid-template-columns: max-content;
+  grid-template-columns: 1fr 3fr 1fr;
 }
-.jumping-box {
-max-width: min-content
+#Jumping-box {
+  grid-column: 1/4;
+  grid-row: 1/3;
+}
+#Jumping-msg {
+  grid-column: 2/3;
+  grid-row: 1/3;
 }
