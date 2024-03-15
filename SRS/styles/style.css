@@ -30,5 +30,5 @@ Fonts are separated by a & */
   grid-template-columns: max-content;
 }
 .jumping-box {
-max-width: 300px;
+max-width: min-content
 }
