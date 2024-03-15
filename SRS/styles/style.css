@@ -25,3 +25,7 @@ Fonts are separated by a & */
   --nav-hover-link-color: #fffffa;
   --nav-hover-background-color: #333138;
 }
+
+.jumping {
+max-width: 300px;
+}
