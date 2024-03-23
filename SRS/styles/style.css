@@ -120,17 +120,17 @@ nav a {
 }
 h4 {
   background-attachment: fixed;
-  color: #f3dfa2;
+  color: #ff312e;
 }
 .book{
   background-attachment: fixed;
-  color: #f3dfa2;
+  color: #ff312e;
   font-size: 18px;
   padding: 15px 30px;
 }
 .join {
   background-attachment: fixed;
-  color: #f3dfa2;
+  color: #ff312e;
   padding: 15px 30px;
 }
 .book:hover {
@@ -139,7 +139,7 @@ h4 {
 }
 .join:hover{
   background-attachment: fixed;
-  color: #7ebdc2;
+  color: #ff312e;
 }
 .msg h2{
   background-attachment: fixed;
@@ -153,15 +153,15 @@ h4 {
 }
 footer h3 {
   background-attachment: fixed;
-  color: #7ebdc2;
+  color: #ff312e;
 }
 footer a {
   background-attachment: fixed;
-  color: #7ebdc2;
+  color: #ff312e;
 }
 .footer a:hover{
   background-attachment: fixed;
-  color: #7ebdc2;
+  color: #ff312e;
 }
 .icon {
   width: 80px ; 
@@ -181,7 +181,12 @@ footer .social img{
 .card-img{
   border: 10px solid white;
   transition: transform .5s;
-  box-shadow: 5px 5px 10px #f3dfa2;
+  box-shadow: 5px 5px 10px #ff312e;
+}
+.Mechanic-img{
+  border: 10px solid white;
+  transition: transform .5s;
+  box-shadow: 5px 5px 10px #ff312e;
 }
 .card-img:hover {
   opacity: .6;
