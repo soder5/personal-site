@@ -59,7 +59,7 @@ h2{
   margin: 0;
 }
 header {
-  background-color: #fffffa;
+  background-color: #000103;
   display: grid;
   grid-template-columns: 150px  auto
 }
