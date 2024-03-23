@@ -143,11 +143,11 @@ h4 {
 }
 .msg h2{
   background-attachment: fixed;
-  color: #f3dfa2;
+  color: #ff312e;
 }
 .msg p{
   background-attachment: fixed;
-  color: #f3dfa2;
+  color: #ff312e;
   font-size: .8em;
   padding-bottom: 15px;
 }
@@ -232,10 +232,10 @@ nav {
 }
 .hero-msg {
   text-align: center;
-  color: #f3dfa2;
+  color: #ff312e;
 }
 .rates-card {
-  border: 10px solid #f3dfa2;
+  border: 10px solid #ff312e;
 }
 .rates-img {
   width: 100%;
@@ -249,7 +249,7 @@ nav {
 .rates-list {
   color: white;
   text-align: left;
-  background-color: #7ebdc2;
+  background-color: #ff312e;
   padding: 20px;
 }
 @media screen and (max-width: 900px) {
