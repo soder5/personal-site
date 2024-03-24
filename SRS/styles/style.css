@@ -188,6 +188,10 @@ footer .social img{
   transition: transform .5s;
   box-shadow: 5px 5px 10px #ff312e;
 }
+.Mechanic-img:hover{
+  opacity: .6;
+  transform: scale(1.1);
+}
 .card-img:hover {
   opacity: .6;
   transform: scale(1.1);
@@ -216,10 +220,12 @@ nav {
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 .card-img{
-  width: 100%;
+  width: 50%;
+  align-self: center;
 }
 .Mechanic-img {
-  width: 100%
+  width: 50%
+  align-self: center;
 }
 .Mechanic-card {
   grid-column: 2/4;
