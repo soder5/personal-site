@@ -49,7 +49,7 @@ main section {
   height: 725px;
 }
 body {
-  background-color: #000103 ;
+  background-color: #fffffa ;
   font-family: Roboto, Helvetica, sans-serif;
   font-size: 22px;
   margin: 0;
@@ -72,7 +72,7 @@ nav a:hover {
   border-radius: 5px;
 }
 .join {
-  background-color: #231f20;
+  background-color: #fffffa;
   font-size: 18px;
   margin-top: 50px;
   border-radius: 5px;
@@ -92,7 +92,7 @@ nav a:hover {
   padding: 35px;
   grid-column: 6/10;
   grid-row: 6/7;
-  box-shadow: 5px 5px 10px #231f20;
+  box-shadow: 5px 5px 10px #fffffa;
 }
 footer {
   background-color: #fffffa;
@@ -224,7 +224,7 @@ nav {
   align-self: center;
 }
 .Mechanic-img {
-  width: 10%;
+  width: 50%;
   align-self: center;
 }
 .Mechanic-card {
