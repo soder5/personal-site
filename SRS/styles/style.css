@@ -66,12 +66,12 @@ h2{
 header {
   background-color: #000103;
   display: grid;
-  grid-template-columns: 150px  auto
+  grid-template-columns: 75px  auto
 }
 nav a:hover {
   background-color: #fffffa;
 }
-.hero_link {
+.logo {
 width: 50%;
 }
 .book {
