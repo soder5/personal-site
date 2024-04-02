@@ -30,6 +30,7 @@ Fonts are separated by a & */
   margin: 0 auto;
 }
 nav a {
+  margin: 0;
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -64,7 +65,7 @@ h2{
   margin: 0;
 }
 header {
-  background-color: #000103;
+  background-color: #fffffa;
   display: grid;
   grid-template-columns: 75px  auto
 }
@@ -72,7 +73,7 @@ nav a:hover {
   background-color: #fffffa;
 }
 .logo {
-width: 50%;
+width: 100%;
 }
 .book {
   background-color: rgba(255, 255, 255, 0.377);
