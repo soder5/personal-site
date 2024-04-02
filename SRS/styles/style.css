@@ -111,13 +111,12 @@ footer {
   align-items: center;
 }
 nav a:hover {
-  background-attachment: fixed;
   color: #ff312e;
 }
 nav a {
   background-attachment: fixed;
   color: #fffffa;
-  padding: 35px;
+  padding: 10px;
 }
 .home-title {
   background-attachment: fixed;
