@@ -235,6 +235,10 @@ nav {
   width: 50%;
   align-self: center;
 }
+.Lake-img {
+  width: 50%;
+  align-self: center;
+}
 .Mechanic-card {
   grid-column: 2/4;
   grid-row: 2/3;
@@ -243,7 +247,12 @@ nav {
   grid-column: 8/10;
   grid-row: 2/3;
 }
+.Lake-card {
+  grid-column: 8/10;
+  grid-row: 2/3;
+}
 #background {
+  align-self: center;
   grid-column: 1/11;
   grid-row: 4/9;
 }
