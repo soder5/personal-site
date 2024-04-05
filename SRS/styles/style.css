@@ -92,6 +92,10 @@ width: 100%;
 .join:hover {
   background-color: #ff312e;
 }
+.title {
+color: #ff312e;
+align-self: center;
+}
 #background {
   background-color: #fffffa;
 }
